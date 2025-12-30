@@ -1,0 +1,7 @@
+{
+  "name": "Linguist Pro: Grammar & Vocabulary Hub",
+  "description": "A comprehensive English grammar and vocabulary learning application featuring AI-powered definitions, Chinese translations, and integrated dictionary links with voice support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
